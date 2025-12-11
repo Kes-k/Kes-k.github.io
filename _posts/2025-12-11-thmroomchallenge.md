@@ -1,5 +1,5 @@
 ---
-title: "Room 1: Hacking My First Machine (TryHackMe – PenTest+ Path)"
+title: "Project 2- Room 1: Hacking My First Machine (TryHackMe – PenTest+ Path)"
 ---
 
 ## Problem Statement

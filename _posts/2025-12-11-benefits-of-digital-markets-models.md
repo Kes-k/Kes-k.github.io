@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Digital Market Models"
+title: "Project 1: Benefits of Digital Market Models"
 Categories: [projects, projects section]
 ---
 

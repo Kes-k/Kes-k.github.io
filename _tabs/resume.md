@@ -4,7 +4,7 @@ icon: fas fa-tags
 order: 2
 ---
 
-**Technical Writer | Ethical Hacker-in-Training | Cybersecurity & Digital Forensics Student**
+**Technical Writer** | **Ethical Hacker-in-Training** | **Cybersecurity & Digital Forensics Student**
 
 A technical writer with over 2,000 articles, blog posts, and research papers delivered since 2016, I combine deep writing and research experience with a growing foundation in cybersecurity and ethical hacking. Currently pursuing a B.Sc. in Cybersecurity and Digital Forensics, and preparing for CISCO Ethical Hacking certification (Dec 2025).
 

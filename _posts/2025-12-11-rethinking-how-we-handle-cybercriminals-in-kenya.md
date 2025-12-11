@@ -1,7 +1,8 @@
 ---
+
 title: "Project 3- Opinion piece blog post"
 Categories: [projects, projects section]
-link: [https://cyberconfidentiality.com/rethinking-how-we-handle-cybercriminals-in-kenya/]
+
 ---
 
 ## Problem Statement
@@ -19,3 +20,5 @@ I dug deep into the subject but mostly focused on news coverage of different new
 ## Key Lessons Learned
 
 This work highlighted the importance of balancing legal consequences with pathways for education, recognition of practical skills, and structured national programs to support cybersecurity talent.
+
+link: https://cyberconfidentiality.com/rethinking-how-we-handle-cybercriminals-in-kenya/

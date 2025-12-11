@@ -1,1 +1,25 @@
+---
+title: Room 1: Hacking My First Machine (TryHackMe – PenTest+ Path)
+category: [lab challenges, projects]
+---
 
+## Problem Statement
+
+The objective of this room was to introduce the fundamentals of attacking a target machine in a controlled virtual environment. The challenge required discovering hidden web directories, interacting with a simulated online banking application, and ultimately exploiting its weaknesses to gain unauthorized access and perform privileged actions.
+
+## Approach
+
+I followed a step-by-step walkthrough to understand the structure of a basic web penetration test. I began by enumerating the target website to identify hidden directories. After discovering key entry points, I explored the simulated banking interface, analyzed the application’s behavior, and followed the guided exploitation steps to compromise the system. The walkthrough format allowed me to focus on learning the logic behind each technique while safely replicating the process in a controlled environment.
+
+## Tools Used
+
+- **Try hack me Virtual machine**
+- **Gobuster**
+
+## Key Lessons Learnt
+
+- Learned how directory enumeration helps uncover hidden or sensitive files that may reveal attack vectors.
+- Understood how to run Gobuster effectively and interpret its results.
+- Gained hands-on experience navigating and exploiting a vulnerable web application.
+- Realized the value of walkthrough-style labs for building foundational skills before moving to unsupervised challenges.
+- Developed confidence in using a basic penetration testing workflow: enumeration → analysis → exploitation → validation.

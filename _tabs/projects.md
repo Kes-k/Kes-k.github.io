@@ -1,5 +1,5 @@
 ---
 title: Projects Section
-layout: categories
+layout: Projects
 order: 4
 ---

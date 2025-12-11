@@ -1,8 +1,10 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I'm **Esther Wairimu**, a BSc in Cybersecurity and Digital Forensics student at the Open University of Kenya.
+- Skilled in technical content research and writing.
+- Passionate about building safer cyberspace through awareness and research.
+- Exploring CTFs and cloud security.

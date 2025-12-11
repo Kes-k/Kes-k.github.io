@@ -3,7 +3,7 @@ title: "Benefits of Digital Market Models"
 Categories: [projects, projects section]
 ---
 
-##Introduction
+## Introduction
 
   Digital markets have transformed the way businesses are conducted. I this transformation there are merits and demerits. Among the demerits include security related concerns, competition, lack of tangible experience among many others. This essay, however, looks at the merits that come with digital market models.
 

@@ -1,7 +1,6 @@
 ---
 title: "Room 1: Hacking My First Machine (TryHackMe – PenTest+ Path)"
 categories: [lab challenges, projects]
-tags: [labs, projects]
 ---
 
 ## Problem Statement

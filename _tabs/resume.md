@@ -1,6 +1,6 @@
 ---
-title: Resume Outline
-icon: fas fa-tags
+title: Resume
+icon: fas fa-linkedin
 order: 2
 ---
 

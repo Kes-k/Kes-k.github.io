@@ -1,5 +1,5 @@
 ---
+title: Projects Section
 layout: categories
-icon: fas fa-stream
 order: 4
 ---

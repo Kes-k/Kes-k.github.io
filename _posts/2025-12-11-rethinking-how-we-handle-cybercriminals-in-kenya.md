@@ -1,10 +1,10 @@
 ---
-
 title: "Project 3- Opinion piece blog post"
 Categories: [projects, projects section]
-
 ---
 
+- https://cyberconfidentiality.com/rethinking-how-we-handle-cybercriminals-in-kenya/
+  
 ## Problem Statement
 
 This blog post discusses whether current responses to cybercrime in Kenya are effective or if alternative approaches could better harness talent and strengthen national cybersecurity.
@@ -20,5 +20,3 @@ I dug deep into the subject but mostly focused on news coverage of different new
 ## Key Lessons Learned
 
 This work highlighted the importance of balancing legal consequences with pathways for education, recognition of practical skills, and structured national programs to support cybersecurity talent.
-
-link: https://cyberconfidentiality.com/rethinking-how-we-handle-cybercriminals-in-kenya/

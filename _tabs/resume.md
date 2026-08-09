@@ -20,8 +20,6 @@ Operations & Content Coordinator (Intern) — Regenbogen Safaris Kenya (Mar 2017
 
 B.A. in Travel & Tourism Management — University of Nairobi (Completed December 2018)
 
-B.Sc. in Cybersecurity & Digital Forensics — The Open University of Kenya (Ongoing)
-
 **CERTIFICATIONS**
 
 Cisco Ethical Hacking — (December 2025)
@@ -43,6 +41,6 @@ Research & Analytical Writing · SEO & Content Writing · Report Writing · Docu
 
 Participating in TryHackMe CTF challenges — sharpening ethical hacking and penetration testing skills.
 
-Writing educational articles about cybersecurity and digital safety to raise awareness.
+Creating cybersecurity and digital safety awareness through informative and analytical blog articles.
 
 Interested in joining communities/projects that defend against cyber threats and support safe internet practices.

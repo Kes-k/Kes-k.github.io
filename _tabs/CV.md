@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: C.V
 icon: fas fa-linkedin
 order: 6
 ---

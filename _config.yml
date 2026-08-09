@@ -16,10 +16,10 @@ timezone:
 
 title: "Esther Wairimu" # the main title
 
-tagline: "Cybersecurity Analyst | Ethical Hacker | CTFs" # it will display as the subtitle
+tagline: "Cybersecurity Analysit | Pentester" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  "Showcasing my projects in becoming a cybersecurity professional."
+  "I am working to become a highly skiled cybersecurity professional. This portfolio is to showcase my projects and my progress in the journey."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,8 +28,8 @@ url: ""
 github:
   username: Kes-k # change to your GitHub username
 
-twitter:
-  username: KestherE # change to your Twitter username
+linkedIn:
+  username: Esther Wairimu # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,9 +38,9 @@ social:
   email: kestherie.eko@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/KestherE # change to your Twitter homepage
-    - https://github.com/Kes-k # change to your GitHub homepage
-    # Uncomment below to add more social links
+    - https://github.com/Kes-k # change to your Twitter homepage
+    - https://tryhackme.com/p/kes.k # change to your GitHub homepage
+    - https://app.hackthebox.com/public/users/1582412 # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/estheriewairimu
 

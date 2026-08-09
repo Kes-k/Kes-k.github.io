@@ -1,7 +1,7 @@
 ---
 title: Resume
 icon: fas fa-linkedin
-order: 7
+order: 6
 ---
 
 **Pentester-in-Training** | **Cybersecurity & Digital Forensics Student**

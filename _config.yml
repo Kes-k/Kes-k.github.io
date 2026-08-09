@@ -37,7 +37,6 @@ social:
   name: Esther Wairimu
   email: kestherie.eko@gmail.com # change to your email address
   links:
-    # The first element serves as the copyright owner's link
     - https://github.com/Kes-k # change to your Twitter homepage
     - https://tryhackme.com/p/kes.k # change to your GitHub homepage
     - https://app.hackthebox.com/public/users/1582412 # Uncomment below to add more social links

@@ -26,7 +26,14 @@ B.Sc. in Cybersecurity & Digital Forensics — The Open University of Kenya (Ong
 
 Cisco Ethical Hacking — (December 2025)
 
-TryHackMe Sec0- (July 2026)
+TryHackMe Pre Security (SEC0)- (July 2026) 
+
+**IN-PROGRESS**
+
+B.Sc. in Cybersecurity & Digital Forensics - The Open University of Kenya
+
+TryHackMe Cyber Security 101 (SEC1)
+
 
 **SKILLS**
 

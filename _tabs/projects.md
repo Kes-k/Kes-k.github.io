@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-title: Projects Section
+title: Projects & Labs
 layout: Projects
 icon: fas fa-info-circle
-order: 4
+order: 3
 ---

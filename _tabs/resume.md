@@ -25,6 +25,7 @@ B.Sc. in Cybersecurity & Digital Forensics — The Open University of Kenya (Ong
 **CERTIFICATIONS**
 
 Cisco Ethical Hacking — (December 2025)
+
 TryHackMe Sec0- (July 2026)
 
 **SKILLS**

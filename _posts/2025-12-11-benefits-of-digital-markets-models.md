@@ -1,6 +1,6 @@
 ---
 title: "Project 1: Benefits of Digital Market Models"
-Categories: [projects, projects section]
+Categories: [projects, Projects & Labs ]
 ---
 
 **Problem Statement**- This essay examines the key advantages offered by digital market models in modern business environments.

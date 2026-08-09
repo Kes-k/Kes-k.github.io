@@ -6,6 +6,8 @@ order: 6
 
 **Pentester-in-Training** | **Cybersecurity & Digital Forensics Student**
 
+Downloadable PDF: https://drive.google.com/file/d/1P48a-KxDVmv9xP6oaZ0Os_DxQ2MrryvD/view?usp=sharing
+
 Currently pursuing a B.Sc. in Cybersecurity and Digital Forensics.
 
 **Experience**
